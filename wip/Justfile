@@ -8,10 +8,10 @@ run:
     @just run-komponen
 
 run-filling:
-    python src/filling.py
+    python ./filling.py
 
 run-loss:
-    python src/loss.py
+    python ./loss.py
 
 run-komponen:
-    python src/komponen.py
+    python ./komponen.py
